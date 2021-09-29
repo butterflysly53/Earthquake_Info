@@ -12,7 +12,7 @@
 - [Contribution Guideline](#contribution-guideline)
 - [License](#license)
 # Introduction
-In the last decade it was observed that frequency of earthquake has increased enormously. So I thought of making an informative website to see the most earthquake affected areas of India.
+In the last decade it was observed that frequency of earthquake has increased significantly. So I thought of making an informative website to see the most earthquake prone areas of India.
 
 QuakeShake is an informative website.It lets you know about recent earthquakes happened in India along with some other basic details .
 
