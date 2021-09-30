@@ -1,7 +1,10 @@
 # Earthquake_Info
 
  ![Alt Text](/img/hFZ.gif)
+ 
 
+ ![QuakeShake](https://img.shields.io/badge/QuakeShake-V1.00-blue)
+ 
  # Table of Contents
 
 - [Introduction](#introduction)
@@ -38,7 +41,7 @@ QuakeShake is an informative website.It lets you know about recent earthquakes h
   #### To-Do: 
    _____________________________________________________________________________
    
-   I want to add a **predictive model** to this site  which can alert users beforehand about an upcoming Earthquake.Any suggestion regarding this is  
+   I want to add a **predictive model** to this site  which can alert users beforehand about an upcoming Earthquake.Any suggestion regarding this is welcomed. 
    
   _____________________________________________________________________________
   # Contribution Guideline
