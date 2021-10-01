@@ -57,7 +57,7 @@ OR
 
 Clone this repository by typing git clone https://github.com/butterflysly53/Earthquake_Info.git command in git bash
 
- PRs are welcomed.Any kinf of feedback is appreciated.If you find any issue just put it in the issue section. Every contribution matters.
+ PRs are welcomed.Any kind of feedback is appreciated.If you find any issue just put it in the issue section. Every contribution matters.
  
 # License
  see the <a href="https://github.com/butterflysly53/Earthquake_Info/blob/main/LICENSE">Licence </a>
