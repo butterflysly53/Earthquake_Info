@@ -1,4 +1,4 @@
-# Earthquake_Info
+# QuakeShake
 
  ![Alt Text](/img/hFZ.gif)
  
