@@ -3,7 +3,7 @@
  ![Alt Text](/img/hFZ.gif)
  
 
- ![QuakeShake](https://img.shields.io/badge/QuakeShake-V1.00-blue)
+![QuakeShake](https://img.shields.io/badge/QuakeShake-V1.00-blue)
  
  # Table of Contents
 
@@ -15,7 +15,7 @@
 # Introduction
 In the last decade it was observed that frequency of earthquake has increased significantly. So I thought of making an informative website to see the most earthquake prone areas of India.
 
-QuakeShake is an informative website.It lets you know about recent earthquakes happened in India along with some other basic details .
+QuakeShake is an informative website which lets you know about recent earthquakes happened in India along with some other basic details mentioned below.
 
  # Requirements
   you need Xaamp to be installed in your system.    
@@ -60,4 +60,4 @@ Clone this repository by typing git clone https://github.com/butterflysly53/Eart
  PRs are welcomed.Any kind of feedback is appreciated.If you find any issue just put it in the issue section. Every contribution matters.
  
 # License
- see the <a href="https://github.com/butterflysly53/Earthquake_Info/blob/main/LICENSE">Licence </a>
+ see the <a href="https://github.com/butterflysly53/Earthquake_Info/blob/main/LICENSE">Licence. </a> Made with ❤️
