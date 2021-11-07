@@ -34,8 +34,8 @@ QuakeShake is an informative website which lets you know about recent earthquake
                  
   Some older earthquake details are already stored in database. (see past earthquake section)
   
-  Besides that Users can share their earthquake experience(if they encounter any) by fiilling up the `Form` atttached with the website's Home Page.
-  That details will autometically get registered in the database And the newly entered place will be diplayed in the Map.
+  Besides that Users can share their earthquake experience(if they encounter any) by filling up the `Form` attached with the website's Home Page.
+  That details will automatically get registered in the database And the newly entered place will be displayed in the Map.
   
  
   #### To-Do: 
