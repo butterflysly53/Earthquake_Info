@@ -20,8 +20,8 @@
 </style>
     <title>Earthquake</title>
 </head>
-<body>
 
+<body>
 <div class="header">
   <img src="img/head.png" width="100px" height="70px" style="padding-left: 20px;">
   <div class="header-right">
@@ -34,7 +34,9 @@
 </div>
 <br>
 <br>
-
+<!--
+<div class='console-container'><span id='text'></span><div class='console-underscore' id='console'>&#95;</div></div> 
+Welcome to QuakeShake.We are glad to have you here-->
 <br>
 <div  class="w3-content w3-section" style="max-width:500px "> 
 
@@ -151,6 +153,7 @@ function carousel() {
   x[myIndex-1].style.display = "block";  
   setTimeout(carousel, 2000); // Change image every 2 seconds
 }
+
 </script>
 </body>
 </html>
