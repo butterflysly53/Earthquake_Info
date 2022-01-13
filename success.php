@@ -75,14 +75,19 @@ a:hover, a:active {
     <p>Time: <?php echo  $_POST["Time"]; ?></p>
     <p> Latitude: <?php echo  $_POST["latitude"]; ?> </p>
     <p> Longitude: <?php echo  $_POST["longitude"]; ?> </p>  
-    <p> Depth of Center: <?php echo  $_POST["longitude"]; ?> </p>  
-    <p>Magnitude Of the Earthquake: <?php echo  $_POST["depth"]; ?> </p>  
+    <p> Depth of Center: <?php echo  $_POST["depth"]; ?> </p>  
+    <p>Magnitude Of the Earthquake: <?php echo  $_POST["mag"]; ?> </p>  
     <p >MagType: <?php echo $_POST["magType"];  ?> </p>
     <p>Name of the Place: <?php echo  $_POST["place"]; ?> </p>   
 </form>
   </div>
+  <br>
+  <br>
+  <br>
+  <div>
     <a href="viewRecords.php"> See all details</a>
     <a href="map.php"> Click to see Map</a> 
     <a href="index.php"> Home</a>
+</div>
     </body>
 </html>
